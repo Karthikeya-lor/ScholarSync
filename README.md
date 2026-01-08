@@ -6,17 +6,22 @@ Student Progress, Consistency &amp; Streak Tracker is an ethical, logic-driven .
 Student
  
   ↓
+
 Courses + Interests
  
   ↓
+
 Timetable + Faculty
  
   ↓
+
 Daily Tasks + Calendar
 
   ↓
+
 Tests & Quizzes
  
   ↓
+
 
 Progress Analytics
